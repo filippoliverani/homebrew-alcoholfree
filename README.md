@@ -11,3 +11,8 @@ Install formula
 ```
 brew install <formula>
 ```
+
+Install casks
+```
+brew cask install <cask>
+```
