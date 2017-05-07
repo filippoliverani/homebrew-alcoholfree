@@ -1,8 +1,8 @@
 cask 'tinkertool' do
-  version '6.0'
-  sha256 '5881ac268e91e526bc07b1e43c4e9f8322218465af9456a8df729eaecbdb7960'
+  version '6.1'
+  sha256 '63d704e56ad951fb525ba5baa68c4dfa4e0c6a4e56c9b6c5606d67e57f01a2e3'
 
-  url 'http://download2us.softpedia.com/dl/ab25ad9958d42ad7896d3d24d1415318/580790d5/400005270/mac/Utilities/TinkerTool.dmg'
+  url 'https://us.softpedia-secure-download.com/dl/4399bb390d1ab11f572fe01e7630e0bc/590f538e/400005270/mac/Utilities/TinkerTool.dmg'
   homepage 'http://www.bresink.com/osx/TinkerTool.html'
   license :gratis
 
