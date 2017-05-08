@@ -6,7 +6,7 @@ cask 'anodizer' do
   homepage 'https://github.com/filippo-liverani/anodizer'
   license :mit
 
-  depends_on 'google-chrome'
+  depends_on cask: 'google-chrome'
 
   app 'Anodizer.app'
 end
